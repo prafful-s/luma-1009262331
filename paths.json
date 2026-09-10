@@ -1,15 +1,14 @@
 {
   "mappings": [
-    "/content/we-healthcare/language-masters/en:/",
-    "/content/we-healthcare/language-masters/en/:/en/",
-    "/content/we-healthcare/configuration:/.helix/config.json",
-    "/content/we-healthcare/metadata:/metadata.json",
-    "/content/we-healthcare/redirects:/redirects.json",
-    "/content/we-healthcare/graphql:/graphql.json",
-    "/content/we-healthcare/placeholders:/placeholders.json"
+    "/content/gcasagra/luma-20260910-163107_gina/language-masters/en:/",
+    "/content/gcasagra/luma-20260910-163107_gina/language-masters/en/:/en/",
+    "/content/gcasagra/luma-20260910-163107_gina/configuration:/.helix/config.json",
+    "/content/gcasagra/luma-20260910-163107_gina/metadata:/metadata.json",
+    "/content/gcasagra/luma-20260910-163107_gina/redirects:/redirects.json",
+    "/content/gcasagra/luma-20260910-163107_gina/placeholders:/placeholders.json"
   ],
   "includes": [
-    "/content/we-healthcare/",
-    "/content/dam/we-healthcare/"
+    "/content/gcasagra/luma-20260910-163107_gina/",
+    "/content/dam/gcasagra/luma-20260910-163107_gina/"
   ]
 }
